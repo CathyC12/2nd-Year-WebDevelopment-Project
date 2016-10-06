@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mobile_phone>
+
+<model>
+<name1>iphone 6s Plus</name1>
+<price>$800.00</price>
+<description>Massive</description>
+<grade>9.5/10</grade>
+</model>
+
+<model>
+<name1>iphone 6s </name1>
+<price>$760.00</price>
+<description>Massive</description>
+<grade>9.5/10</grade>
+</model>
+
+<model>
+<name1>iphone 6 Plus</name1>
+<price>$779.99</price>
+<description>Massive</description>
+<grade>9.0/10</grade>
+</model>
+
+<model>
+<name1>iphone 6</name1>
+<price>$750.00</price>
+<description>Massive</description>
+<grade>9.0/10</grade>
+</model>
+
+<model>
+<name1>Samsung Galaxy s6 Edge Plus</name1>
+<price>$799.99.00</price>
+<description>Massive</description>
+<grade>9.5/10</grade>
+</model>
+
+<model>
+<name1>Samsung Galaxy s6 Edge</name1>
+<price>$756.00</price>
+<description>Massive</description>
+<grade>9.0/10</grade>
+</model>
+<model><name1>Cathy</name1><price>jh</price><description>jki</description><grade>jk</grade></model><model><name1>gk</name1><price>jkb</price><description>bjk</description><grade>bk</grade></model><model><name1>jbkk</name1><price>bkjb</price><description>jkb</description><grade>kbjk</grade></model><model><name1>Hey</name1><price>Hey</price><description>Hey</description><grade>Hey</grade></model></mobile_phone>
